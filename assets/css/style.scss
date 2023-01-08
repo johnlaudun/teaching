@@ -1,0 +1,41 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@import
+  "minima/skins/{{ site.minima.skin | default: 'classic' }}",
+  "minima/initialize";
+
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap');
+
+  body {
+    font-family: 'Roboto Condensed', "Helvetica Neue", Helvetica, sans-serif;
+    font-size: 16px;
+    font-weight:400;
+    line-height: 1.25;
+  }
+
+  // h1 h2 h3 h4 {
+  //   font-family: 'Roboto Condensed', "Helvetica Neue", Helvetica, sans-serif;
+  // }
+
+.header{
+  }
+
+.header h1 {
+  font-family: 'Roboto Condensed', "Helvetica Neue", Helvetica, sans-serif;
+  font-size: 2em;
+  font-weight: 300;
+}
+
+.post-content h1 {
+  font-family: 'Roboto Condensed', "Helvetica Neue", Helvetica, sans-serif;
+  font-size: 1.5rem;
+  font-weight: 300;
+}
+.post-content p ul li {
+  font-family: 'Roboto Condensed', "Helvetica Neue", Helvetica, sans-serif;
+  font-size: 1rem;
+  line-height: 1.25;
+}
