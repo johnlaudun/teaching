@@ -1,11 +1,9 @@
-
+---
 layout: default
 title: 334 Schedule
-parent: Home
-nav_exclude: true
+---
 
 « Return to the [syllabus](index.md) «
-# 334 Schedule
 
 Please note that the schedule below will change according to the needs of the course and its participants. If you must miss a class meeting, please make sure to contact someone from the course to verify what happened and where we are in the schedule. (If Teams is working, you may feel free to post there. Conversely, if you are checking Teams and you see someone has asked about something in class, please answer their question.)
 

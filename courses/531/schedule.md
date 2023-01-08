@@ -1,13 +1,64 @@
 ---
 title: Agenda for Seminar in Narrative Studies
 layout: default
-parent: Home
-nav_exclude: true
 ---
 
-## Agenda
-
 Our own interests, expertise, and discoveries will determine more clearly how we will actually spend our time. For those reasons, I prefer to establish an agenda for a course, with the proviso that how much we dwell on a topic or gloss it will effect the timing of matters. While the sequencing of topics should remain fairly stable, the fulfillment of those topics through various readings will be determined by the content of our conversations.
+
+Please note that the schedule below will change according to the needs of the course and its participants. If you must miss a class meeting, please make sure to contact someone from the course to verify what happened and where we are in the schedule. (If Teams is working, you may feel free to post there. Conversely, if you are checking Teams and you see someone has asked about something in class, please answer their question.)
+
+## Schedule in Brief
+
+1. Jan 11 - Seminar Introductions
+2. Jan 18 - Story, Schmory: What's (a) narrative?
+3. Jan 25 - 
+4. Feb 1 - 
+5. Feb 8 - 
+6. Feb 15 -
+
+*Mardi Gras Break*
+
+8. Mar 1 - 
+9. Mar 8 - 
+10. Mar 15 - 
+11. Mar 22 - 
+12. Mar 29 -
+13. Apr 5 -
+
+*Spring Break*
+
+14. Apr 19 - 
+15. Apr 25 - Presentations & Course Wrap-Up
+
+## Schedule in Full-ish
+
+### Seminar Introductions
+
+On the first day of the course we go over all the usual course dimensions, reviewing the syllabus as we do so. There will also be some preliminary introductions of participants, and, should the moment arise, a brief discussion about the nature of **texts**. 
+
+**January 18**. *"Story" and "Narrative"*. There are a lot of definitions of culture and folklore out "there." In this class, we discuss some of them and begin to build a useful synthesis of those terms, the first of many, on which we can all rely. **Assigned**: Participants are divided into two groups, each group focused on one of the two terms. Each participant is responsible for collecting one definition from the kinds of sources discussed in class — so, yes, googling "what is culture?" is going to be ruled *low effort / low reward*. Each entry should be 25-100 words in length and should be accompanied by a citation as well as a brief rationale (another 25-100 words) that explains why it is a viable or useful definition. Each of these items should appear as a separate block in the document you bring to class and/or share with others.
+
+**January 25**. 
+
+**February 1**. 
+
+**February 8**. 
+
+**February 15**.
+
+*There are no class meetings during Mardi Gras break. Enjoy!*
+
+March 1. 
+
+March 8.
+
+March 15. 
+
+March 22.
+
+March 29.
+
+April 5.
 
 
 ### A Bayesian Introduction to Narrative Studies
