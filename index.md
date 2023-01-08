@@ -55,7 +55,7 @@ In addition to this teaching site, I also maintain a personal [site][] -- there 
 Please see the site's [about](about.md) page for more information.
 
 [Moodle]: https://moodle.louisiana.edu/
-[me]: https://johnlaudun.net/contact.html/
+[me]: https://johnlaudun.net/contact.html
 [site]: https://johnlaudun.net/
 [blog]: https://johnlaudun.org/
 [cc]: https://creativecommons.org/licenses/by-sa/4.0/
