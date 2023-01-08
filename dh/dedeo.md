@@ -1,12 +1,11 @@
 ---
 layout: default
 title: Dedeo questions
-nav_exclude: true
 ---
 
 # Final paper
 
-1. Read one of the books below and extract a specific claim the author makes about cognition, culture, socie­ ty, or political life. You must be able to locate and underline the claim in the text itself, in a maximum of two paragraphs, and rephrase it in one sentence. “Just crazy enough to be true” is a good guideline. You may gen­ eralize the claim. Large leeway for poetic interpretation. Photocopy of paragraphs, and sentence, due XXX.
+1. Read one of the books below and extract a specific claim the author makes about cognition, culture, socie­ty, or political life. You must be able to locate and underline the claim in the text itself, in a maximum of two paragraphs, and rephrase it in one sentence. “Just crazy enough to be true” is a good guideline. You may gen­eralize the claim. Large leeway for poetic interpretation. Photocopy of paragraphs, and sentence, due XXX.
 2. Test the claim on a dataset, using the methods of the class.
 
 The paper is expected to be at the level of a peer reviewed journal article. It is due XXX.

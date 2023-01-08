@@ -36,24 +36,41 @@ There are some things all students in my courses need, or want, to know:
 [Open Culture]: http://www.openculture.com
 [archive of films]: http://www.openculture.com/freemoviesonline
 
+## Texts & TEI
+
+There are a number of texts which are regularly useful:
+
+- [AT 510](texts/AT_510.md): The Turkey Herder
+- [AT 513](texts/AT_513.md): Ein bato ki té koné navigué on la terre com on la mer
+- [Grimms 5](texts/grimms_05.md)
+- [Grimms 91](texts/grimms_91.md)
+- Ray Hicks' ["Jack and the Fire Dragaman"](texts/hicks_2.md)
+- Kenneth Burke's ["Literature as Equipment for Living"](texts/Burke_1941.pdf)
+- [27 Treasure Legends from Louisiana](texts/legends.md)
+
+There are also a couple of TEI files: a [template](tei/template.tei) and an [example](tei/laudun-20000712-01.tei).
+
 ## Course Sketches for the Quantitative Humanities
 
 The courses listed below are ones I imagine teaching in a context where both close and distant reading, where both computation and cogitation, feature equally in the treatment of texts.
 
-* [Introduction to Text Analytics](courses/c200/index.md)
-* [What We Think When We Think about Machine Thinking](courses/c300/index.md)
-* [The Spread of (Mis)Information](courses/c400/index.md)
+* [Introduction to Text Analytics](courses/qh200/index.md)
+* [What We Think When We Think about Machine Thinking](courses/qh300/index.md)
+* [The Spread of (Mis)Information](courses/qh400/index.md)
 
-While I have never taught these courses as they are sketched out here, they are based on units or features of courses or workshops I have alreday conducted and so I have the begun the process of building the blocks!
+While I have never taught these courses as they are sketched out here, they are based on units or features of courses or workshops I have alreday conducted and so I have the begun the process of building the blocks.
 
-## Nota Bene
+## Colophon
 
-This separate, dedicated teaching site is designed so that students can access the materials they need no matter where they are. While I try to make as much as possible available publicly, both for students in my courses as well as to interested others, some course materials must remain behind the university paywall (aka [Moodle][]) due to copyright restrictions. (I take fair use seriously.) If you are a visiting student or scholar and would like access to those materials, please get in touch with [me][].
+This site is designed to be available to course participants and interested others without having to negotiate LMS logins, or outages. It is built using Jekyll and is hosted in a [GitHub repository][]. 
 
-In addition to this teaching site, I also maintain a personal [site][] -- there is also an older [blog][] and a portfolio site, for those interested, all of which are being transitioned to the new infrastructure. (Migrations are slow processes when you have a lot of materials.) As much as possile, most things are released under the [Creative Commons Attribution-ShareAlike 4.0 International Code][cc] (CC BY-SA 4.0).
+While I try to make as much as possible available publicly, both for students in my courses as well as to interested others, some course materials must remain behind the university paywall (aka [Moodle][]) due to copyright restrictions. (I take fair use seriously.) If you are a visiting student or scholar and would like access to those materials, please get in touch with [me][].
 
-Please see the site's [about](about.md) page for more information.
+In addition to this teaching site, I also maintain a personal [site][]. there is also an older WordPress [blog][], for those interested, which will at some point transition to the new GitHub Pages infrastructure. (Migrations are slow processes when you have a lot of materials.) 
 
+As much as possible, most things on all my sites are released under the [Creative Commons Attribution-ShareAlike 4.0 International Code][cc] (CC BY-SA 4.0).
+
+[GitHub repository]: https://github.com/johnlaudun/teaching
 [Moodle]: https://moodle.louisiana.edu/
 [me]: https://johnlaudun.net/contact.html
 [site]: https://johnlaudun.net/
