@@ -1,7 +1,10 @@
 ---
-title: Agenda for Seminar in Narrative Studies
+title: Schedule for Seminar in Narrative Studies
 layout: default
 ---
+« Return to the [syllabus](index.md) «
+
+# 531 Seminar Schedule
 
 Our own interests, expertise, and discoveries will determine more clearly how we will actually spend our time. For those reasons, I prefer to establish an agenda for a course, with the proviso that how much we dwell on a topic or gloss it will effect the timing of matters. While the sequencing of topics should remain fairly stable, the fulfillment of those topics through various readings will be determined by the content of our conversations.
 

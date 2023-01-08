@@ -5,7 +5,7 @@ layout: default
 
 # Seminar in Narrative Studies
 
-ENGL 531-001 / W 1800-2050 / HLG 321 / [Agenda](schedule.md)
+ENGL 531-001 / W 1800-2050 / HLG 321 / [schedule](schedule.md)
 ## Instructor
 
 [Pr. John Laudun](https://johnlaudun.net/) / HLG 356 / MW 12-1400 & by appt
