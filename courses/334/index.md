@@ -26,9 +26,9 @@ Participants in this course will learn how to read scholarly and scientific anal
 
 Please purchase the following books either from the university bookstore or from your preferred vendor. Amazon links are provided only for convenience. Both books are available as Kindle editions, and you are free to purchase them as ebooks, but I will be working with paper copies and referencing page numbers. 
 
-McCulloch, Gretchen. 2020. _Because Internet: Understanding the New Rules of Language_. Riverhead Books. ISBN: 978-0735210943. [mcculloch][].
+McCulloch, Gretchen. 2020. _Because Internet: Understanding the New Rules of Language_. Riverhead Books. ISBN: 978-0735210943. [Amazon][mcculloch].
 
-Paltridge, Brian. 2021. _Discourse Analysis: An Introduction_. Bloomsbury Academic. ISBN: 978-1350093621. [paltridge][].
+Paltridge, Brian. 2021. _Discourse Analysis: An Introduction_. Bloomsbury Academic. ISBN: 978-1350093621. [Amazon][paltridge].
 
 [mcculloch]: https://www.amazon.com/Because-Internet-Understanding-Rules-Language/dp/0735210942/
 [paltridge]: https://www.amazon.com/Discourse-Analysis-Introduction-Bloomsbury/dp/1350093629/
