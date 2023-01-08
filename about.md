@@ -16,6 +16,6 @@ For more information about the University of Louisiana, it too has a [website][u
 
 For more information about GitHub … I think you know what to do.
 
-[GitHub repository]: https://github.com/johnlaudun/loristics
+[GitHub repository]: https://github.com/johnlaudun/teaching
 [jl]: https://johnlaudun.net/
 [ul]: https://louisiana.edu/
