@@ -6,7 +6,8 @@
   "minima/skins/{{ site.minima.skin | default: 'classic' }}",
   "minima/initialize";
 
-  @import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap');
 
   html {
     font-family: 'Roboto Condensed', "Helvetica Neue", Helvetica, sans-serif;
@@ -15,6 +16,17 @@
   }
 
 .header{
+  }
+
+.header h1 {
+  font-family: 'Roboto Condensed', "Helvetica Neue", Helvetica, sans-serif;
   font-size: 2em;
   font-weight: 300;
+}
+
+
+.post-content{
+  font-family: 'Roboto Condensed', "Helvetica Neue", Helvetica, sans-serif;
+  font-size: 12px;
+  line-height: 1.25;
 }
