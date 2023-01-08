@@ -6,7 +6,8 @@ has_children: true
 has_toc: false
 ---
 
-![Loristics Logo](images/loristics-banner.png)
+<p><img alt="Loristics: People, Information, Knowledge" src="images/loristics-banner.png" width="500" align = "center"/></p>
+
 ## Courses
 
 * [English 115](courses/115/index.md): Honors Academic Writing
@@ -49,9 +50,12 @@ While I have never taught these courses as they are sketched out here, they are 
 
 This separate, dedicated teaching site is designed so that students can access the materials they need no matter where they are. While I try to make as much as possible available publicly, both for students in my courses as well as to interested others, some course materials must remain behind the university paywall (aka [Moodle][]) due to copyright restrictions. (I take fair use seriously.) If you are a visiting student or scholar and would like access to those materials, please get in touch with [me][].
 
-In addition to this teaching site, I also maintain a [personal site][] -- there is also an older [blog][] and a portfolio site, for those interested, all of which are being transitioned to the new infrastructure. (Migrations are slow processes when you have a lot of materials.) As much as possile, most things are released under the [Creative Commons Attribution-ShareAlike 4.0 International Code][cc] (CC BY-SA 4.0).
+In addition to this teaching site, I also maintain a personal [site][] -- there is also an older [blog][] and a portfolio site, for those interested, all of which are being transitioned to the new infrastructure. (Migrations are slow processes when you have a lot of materials.) As much as possile, most things are released under the [Creative Commons Attribution-ShareAlike 4.0 International Code][cc] (CC BY-SA 4.0).
+
+Please see the site's [about](about.md) page for more information.
 
 [Moodle]: https://moodle.louisiana.edu/
+[me]: https://johnlaudun.net/contact.html/
 [site]: https://johnlaudun.net/
 [blog]: https://johnlaudun.org/
 [cc]: https://creativecommons.org/licenses/by-sa/4.0/
