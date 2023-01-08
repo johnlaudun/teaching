@@ -24,9 +24,16 @@ Participants in this course will learn how to read scholarly and scientific anal
 
 ## Texts
 
-A considerable amount of reading for this course are scholarly materials, mostly as PDFs, available either in on-line databases, like JSTOR, or through the course’s Moodle site. Many of the materials in the latter instance are already uploaded, and so if there is a moment in the course where an item is listed on the schedule but does not appear in the Resources section of the course’s Moodle page, please contact me. (Do not assume because you cannot find something that you are not responsible for it.)
+Please purchase the following books either from the university bookstore or from your preferred vendor. Amazon links are provided only for convenience. Both books are available as Kindle editions, and you are free to purchase them as ebooks, but I will be working with paper copies and referencing page numbers. 
 
-At present, I am only considering one book as a required purchase for this course: Gretchen McCulloch's _Because Internet: Understanding the New Rules of Language_. More on this soon.
+McCulloch, Gretchen. 2020. _Because Internet: Understanding the New Rules of Language_. Riverhead Books. ISBN: 978-0735210943. [mcculloch][].
+
+Paltridge, Brian. 2021. _Discourse Analysis: An Introduction_. Bloomsbury Academic. ISBN: 978-1350093621. [paltridge][].
+
+[mcculloch]: https://www.amazon.com/Because-Internet-Understanding-Rules-Language/dp/0735210942/
+[paltridge]: https://www.amazon.com/Discourse-Analysis-Introduction-Bloomsbury/dp/1350093629/
+
+In addition to these books, a fair amount of reading for this course is scholarly materials available either in on-line databases, like JSTOR, or through the course’s Moodle site. Much of that reading will be as PDFs, so please make sure you either have a PDF reader with which you are very happy or you can print the PDFs. 
 
 In addition to the texts we encounter in class, there are other resources that may be useful to those either in need of a bit more discussion or seeking to expand their understanding. JSTOR, for example, offers a variety of tutorials: some are [simply slides or texts][] that you can read on your own and others are [interactive tutorials][] hosted on their own Moodle setup. (Registration is required, but once you are registered, you’ll discover a number of short videos as well as interactive exercises. If you allocate 20 minutes per session for a few days, you’ll learn something.)
 
