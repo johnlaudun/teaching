@@ -16,6 +16,8 @@ Please note that the schedule below will change according to the needs of the co
 **January 11**. *Course Overview*. On the first day of the course we go over all the usual course dimensions, reviewing the syllabus as we do so. There will also be some preliminary introductions of participants, and, should the moment arise, a brief discussion about the nature of **texts**. 
 
 **January 18**. *"Culture" and "Folklore"*. There are a lot of definitions of culture and folklore out "there." In this class, we discuss some of them and begin to build a useful synthesis of those terms, the first of many, on which we can all rely. **Assigned**: Participants are divided into two groups, each group focused on one of the two terms. Each participant is responsible for collecting one definition from the kinds of sources discussed in class — so, yes, googling "what is culture?" is going to be ruled *low effort / low reward*. Each entry should be 25-100 words in length and should be accompanied by a citation as well as a brief rationale (another 25-100 words) that explains why it is a viable or useful definition. Each of these items should appear as a separate block in the document you bring to class and/or share with others.
+
+## The Internet of Small (Cultural) Things
 ### Changes in Speaking and Writing
 
 **January 23**. *How We Write*. Read: "Informal Writing" in McCulloch. 
@@ -42,7 +44,9 @@ Please note that the schedule below will change according to the needs of the co
 
 *There are no class meetings during Mardi Gras break. Enjoy!*
 
-<!-- 
+## The Internet of Bigger Cultural Things
+
+### Rumors, Legends, Conspiracies
 
 February 27.
 
@@ -64,15 +68,19 @@ March 20.
 March 22.
 
 ---
+
+## Course Projects
+
 March 27.
 
 March 29.
 
----
 April 3.
 
 April 5.
 
 *Enjoy your spring break.*
 
--->
+**April 17 & 19**. The penultimate week of the course is set aside for revising of text and images for and production of posters.
+
+**April 24 & 26**. *Poster presentations*. 
