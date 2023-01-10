@@ -22,9 +22,9 @@ The objective of this seminar is to survey the breadth and depth of definitions 
 
 Two texts, one classical and one synthetic, are listed below, but I hope to conduct much of the course through PDFs that are generally available (e.g., PLoS ONE), are available through a university subscription (e.g., JSTOR), or that I make available through the Moodle site. (The usual caveats to using Moodle apply: connections can be flaky; don't wait until the last minute to download an essay.)
 
-Herman, David. 2009\. _Basic Elements of Narrative_. Wiley-Blackwell. (Please do not purchase until we decide to use this text >>> I am also reviewing Monika Fludernik's _An Introduction to Narratology_.)
+Herman, David. 2009. _Basic Elements of Narrative_. Wiley-Blackwell. 
 
-Propp, Vladimir. 1968\. _Morphology of the Folktale_. Tr. Laurence Scott. University of Texas Press.
+Propp, Vladimir. 1968. _Morphology of the Folktale_. Tr. Laurence Scott. University of Texas Press.
 
 In addition to these texts, we will be reading a great deal from materials drawn from sources like JSTOR and Project Muse as well as other materials found online -- either posted to arXiv or to personal, professional, or institutional sites. 
 

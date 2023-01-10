@@ -3,7 +3,7 @@ layout: default
 title: 334 Schedule
 ---
 
-« Return to the [syllabus](index.md) «
+« Return to the [syllabus](index.md)
 
 # 334 Course Schedule
 
