@@ -5,7 +5,7 @@ layout: default
 
 # Seminar in Narrative Studies
 
-ENGL 531-001 / W 1800-2050 / HLG 321 / [schedule](schedule.md)
+ENGL 531-001 / M 1800-2050 / HLG 321 / [Schedule](schedule.md)
 ## Instructor
 
 [Pr. John Laudun](https://johnlaudun.net/) / HLG 356 / MW 12-1400 & by appt
@@ -24,11 +24,9 @@ Two texts, one classical and one synthetic, are listed below, but I hope to cond
 
 Herman, David. 2009. _Basic Elements of Narrative_. Wiley-Blackwell. 
 
-Propp, Vladimir. 1968. _Morphology of the Folktale_. Tr. Laurence Scott. University of Texas Press.
+Propp, Vladimir. 1968. _Morphology of the Folktale_. Tr. Laurence Scott. University of Texas Press. 
 
 In addition to these texts, we will be reading a great deal from materials drawn from sources like JSTOR and Project Muse as well as other materials found online -- either posted to arXiv or to personal, professional, or institutional sites. 
-
-*Hold for now*: In addition to (or over and against) scholarly/scientific considerations of narrative, the seminar will develop its own _corpus_ of texts which we will use as a place to apply theories and models, as a vehicle for furthering/deepening our discussion about various theories and models, and as a well from which we can draw our own ideas. For more on the corpus, [see below](#corpus).
 
 ## Cource Requirements
 
@@ -49,13 +47,17 @@ In addition to the assumed active participation, which includes a number of proj
 For most participants, writing a seminar paper in a course focused on intellectual history is fairly difficult: usually the moment of person synthesis, that _ah-hah!_ moment, comes in the latter half of the term. That is not terrible timing for a seminar paper, but for attempting anything earlier, it does make things difficult. Based on past experience, I would like to propose that you begin with a **research proposal** with the following contents:
 
 * a **one-paragraph (200-500 words) statement** of the texts in which you are interested and the theories or models through which you would like to explore them. This is only a preliminary sketch, nothing more. You are putting words down because getting words down is, first, always a good thing, and words beget words, also a good thing. If you'd like to break this into more paragraphs, feel free.
-* a **bibliography**, again preliminary/draft in nature, which is divided into two parts: the texts which you wish to examine and the texts which will serve as your analytical and/or theoretical paradigms and/or models. The more you annotate each of these, the better -- you need to get used to, and good at, explaining yourself to interested but non-expert others. Write like you are talking to a class of undergraduates, interested undergraduates.
+* an **annotated bibliography**, again preliminary/draft in nature, which is divided into two parts: the texts which you wish to examine and the texts which will serve as your analytical and/or theoretical paradigms and/or models. The more you annotate each of these, the better -- you need to get used to, and good at, explaining yourself to interested but non-expert others. Write like you are talking to a class of undergraduates, interested undergraduates.
 
 Single-spaced and citations in whatever formatting your prefer, but used consistently. (For the record, folklore studies uses Chicago B, which makes far more sense than MLA and has not changed in decades.)
 
 Please see the agenda for timing.
 
 ### Corpus
+
+*Hold for now*: 
+
+In addition to (or over and against) scholarly/scientific considerations of narrative, the seminar will develop its own _corpus_ of texts which we will use as a place to apply theories and models, as a vehicle for furthering/deepening our discussion about various theories and models, and as a well from which we can draw our own ideas. For more on the corpus, [see below](#corpus).
 
 Because time is not infinite, each of you is constrained by a limit of 10,000 words: this can be one text or several. A further constraint is that we will need to balance our text between those items that are obviously or conventionally narrative and those which test boundaries.
 
@@ -64,9 +66,8 @@ My somewhat informed guess is that many of you already have possible sources, wh
 - _Open Culture_ lists [800 Free eBooks for iPad, Kindle & Other Devices](http://www.openculture.com/free_ebooks). (_Open Culture_ regularly compiles such lists, so it's worth searching for topics or titles that interest you to see what they may have already compiled in a "listicle" -- [Katherine Kinnaird](http://katherinemkinnaird.net) and I got started on our work on TED talks thanks to an _OC_ article about a list of the talks.)
 - _NothingintheRuleBook_ has [55 places you can download tens of thousands books, plays and other literary texts completely legally for free](https://nothingintherulebook.com/2017/01/10/55-places-you-can-download-tens-of-thousands-books-plays-and-other-literary-texts-completely-legally-for-free/).
 
+## Communications
 
-## Schedule
+As participants in a seminar, each of you is more a part of overall work than in other courses. Consider yourself co-facilitators, or at least peers: we are here to develop our own thinking but to do so alongside others doing the same. Often, it's somebody else's moment of synthesis that prompts your own or directs you to a new, different line of questioning. The use of an application like Teams is meant to provide us a venue to continue conversations and to encourage everyone to think of this as "us" and not "me and the teacher." (Plus, I don't know about you, but my email inbox feels like a dumpster fire that I just can't seem to put out, so staying out of it is good for everyone.) 
 
-Please see the course [agenda][] and stay abreast of all revisions and refinements as they occur during seminar discussions.
-
-[agenda]: 531-agenda.md
+Using a group chat application -- okay, Teams is more than that -- also means that if you miss something, you can poll the group to catch you up. Or to follow up on a reference someone made in a discussion but you didn't quite catch. And I encourage you to make as many of these kinds of interactions "whole group" as you are comfortable doing. Almost always, someone else has the same question or confusion and you may be the person who gives voice to their concern. You too can be a discursive hero.
