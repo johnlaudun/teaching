@@ -12,3 +12,14 @@ Sometimes all you want is some data with which to play, to try things out. But y
 [CLARIN Virtual Language Observatory](https://vlo.clarin.eu/) aims to provide an easy to use interface for search and discovery within a large number of resources from a wide variety of domains and providers made possible by CLARIN. My experience of it is that it is rich in metadata, but data (texts) can be hit or miss.
 
 [45 places you can download tens of thousands books, plays and other literary texts completely and legally for free](https://nothingintherulebook.com/2017/01/10/55-places-you-can-download-tens-of-thousands-books-plays-and-other-literary-texts-completely-legally-for-free/) compiled by Professor Wu, "a four-foot Chinese Salamander dubbed “critically endangered” by the International Union for Conservation of Nature," for _Nothing in the Rule Book_ a site that seeks to make imaginative work free in a world where too many people are getting priced out of reading.
+
+In 2021 Hazel Clementine published an omnibus post on Medium of “28 places to find free books.” Her post is gone, but the mega-list remains: 
+
+- Project Gutenberg
+- Wikibooks
+- Planet Ebook
+- MIT OpenCourseware
+- The Internet Book Database of Fiction
+- Bartleby.com
+- literature.org
+- bibliomania

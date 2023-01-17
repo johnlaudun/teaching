@@ -25,3 +25,8 @@ History of the internet: https://twitter.com/mishadavinci/status/155121181535845
 https://inferentialthinking.com/chapters/intro.html
 
 Jupyter Books: https://executablebooks.org/en/latest/gallery.html
+
+
+## Panics
+
+- [America's Satanic Panic Returns — This Time Through QAnon](https://www.npr.org/2021/05/18/997559036/americas-satanic-panic-returns-this-time-through-qanon).

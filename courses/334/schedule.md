@@ -15,7 +15,9 @@ Please note that the schedule below will change according to the needs of the co
 
 **January 11**. *Course Overview*. On the first day of the course we go over all the usual course dimensions, reviewing the syllabus as we do so. There will also be some preliminary introductions of participants, and, should the moment arise, a brief discussion about the nature of **texts**. 
 
-**January 18**. *"Culture" and "Folklore"*. There are a lot of definitions of culture and folklore out "there." In this class, we discuss some of them and begin to build a useful synthesis of those terms, the first of many, on which we can all rely. **Assigned**: Participants are divided into two groups, each group focused on one of the two terms. Each participant is responsible for collecting one definition from the kinds of sources discussed in class — so, yes, googling "what is culture?" is going to be ruled *low effort / low reward*. Each entry should be 25-100 words in length and should be accompanied by a citation as well as a brief rationale (another 25-100 words) that explains why it is a viable or useful definition. Each of these items should appear as a separate block in the document you bring to class and/or share with others.
+**January 18**. *"Culture" and "Folklore"*. There are a lot of definitions of culture and folklore out "there." In this class, we discuss some of them and begin to build a useful synthesis of those terms, the first of many, on which we can all rely. 
+
+>  **Assigned**: Participants are divided into two groups, each group focused on one of the two terms. Each participant is responsible for collecting one definition from the kinds of sources discussed in class — so, yes, googling "what is culture?" is going to be ruled *low effort / low reward*. Each entry should be 25-100 words in length and should be accompanied by a citation as well as a brief rationale (another 25-100 words) that explains why it is a viable or useful definition. Each of these items should appear as a separate block in the document you bring to class and/or share with others. (Please bring at least two copies: one to turn in and at least one to share with peers.) Please also post just the definition in one of the two threads in the general channel of the Teams, er, team before 17:00 the evening before class. 
 
 ## The Internet of Small (Cultural) Things
 ### Changes in Speaking and Writing
@@ -52,7 +54,7 @@ February 27.
 
 March 1. 
 
---- 
+---
 March 6.
 
 March 8.

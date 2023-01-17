@@ -16,11 +16,16 @@ ENGL 334-001 / MW 1430-1545 / HLG 321 / [Schedule](schedule.md)
 
 ## Description
 
-Memes, fake news, trolling, rickrolling are all well-established forms of internet behavior and are as much a part of our everyday lives as grandma's gumbo. **English 334: Digital Folklore and Culture** explores the varieties and depths of digital cultures, from the first email forwards to the latest tiktoks and everything in between. Course activities include curating collections of digital materials; learning how to parse digital content; annotating, sorting, and compiling data sets; applying appropriate analytical frameworks; and exploring ways to present your ideas effectively. The final project focuses on an online collection and a poster session.
+Memes, fake news, trolling, rickrolling are all well-established forms of internet behavior and are as much a part of our everyday lives as grandma's gumbo. **English 334: Digital Folklore and Culture** explores the varieties and depths of vernacular digital cultures, from the first email forwards to the latest tiktoks and everything in between. Course activities include curating collections of digital materials; learning how to parse digital content; annotating, sorting, and compiling data sets; applying appropriate analytical frameworks; and exploring ways to present your ideas effectively. The final project focuses on an online collection and a poster session.
 
 ## Objectives
 
 Participants in this course will learn how to read scholarly and scientific analyses of human behavior with a special emphasis on online behaviors and then apply definitions, models, or analytical concepts in their own thinking and writing. Writing is a significant component of any communication, be it scientific or professional, and participants in this course will be required to assume those voices necessary to accomplishing a particular task. In addition, as a course in folklore studies participants will also create documentation containing both metadata and data in an appropriate structure.
+
+This course is designed for students:
+- who do not currently have a working understanding of folklore, tradition, and/or culture but perhaps do have some understanding of human behavior; 
+- who are interested in developing a working understanding of culture, and its many forms / behaviors;
+- who are interested in a basic understanding, and experience, of the research practice that lies behind scholarly and scientific domains.
 
 ## Texts
 
@@ -57,7 +62,7 @@ The schedule of graded assignments is:
 
 This semester we will be using Microsoft Teams for group communications: I will use it to communicate with the class as a whole and also with class groups. Participants should feel free to set up their own groups, and could use the notion of having peer contacts (see below) to set up smaller chat groups. 
 
-In general, if you have a question about the course, please ask it in the main course channel on Teams: chances are quite good that others have the same question. If you have something more personal, than please do either "chat" with my one-on-one or email me. In both cases, please allow 24 hours for me to respond, outside of weekends. (Please also note that I tend to check email only once a day, in the morning.) If something is an emergency, then you should not be contacting me. I would be useless. 
+In general, if you have a question about the course, please ask it in the main course channel on Teams: chances are quite good that others have the same question. If you have something more personal, than please do either "chat" with me one-on-one or email me. In both cases, please allow 24 hours for me to respond, outside of weekends. (Please also note that I tend to check email only once a day, in the morning.) If something is an emergency, then you should not be contacting me. I would be useless. 
 
 ### Peer Contact Information
 
