@@ -24,6 +24,8 @@ Please note that the schedule below will change according to the needs of the co
 
 **January 23**. *How We Write*. Read: "Informal Writing" in McCulloch. 
 
+> **Assignment**: record one minute of video of two or more people talking in a public place, making sure that they are far enough away that you can’t hear what they are saying. Watch the video later and describe what you think the participants were talking about. (50-100 words)
+
 **January 25**. *How We "Chat"*. Read: "How Conversations Change" in McCulloch.
 
 ### It's People Who String Words into Sentence-y Things

@@ -16,16 +16,23 @@ ENGL 334-001 / MW 1430-1545 / HLG 321 / [Schedule](schedule.md)
 
 ## Description
 
-Memes, fake news, trolling, rickrolling are all well-established forms of internet behavior and are as much a part of our everyday lives as grandma's gumbo. **English 334: Digital Folklore and Culture** explores the varieties and depths of vernacular digital cultures, from the first email forwards to the latest tiktoks and everything in between. Course activities include curating collections of digital materials; learning how to parse digital content; annotating, sorting, and compiling data sets; applying appropriate analytical frameworks; and exploring ways to present your ideas effectively. The final project focuses on an online collection and a poster session.
-
-## Objectives
-
-Participants in this course will learn how to read scholarly and scientific analyses of human behavior with a special emphasis on online behaviors and then apply definitions, models, or analytical concepts in their own thinking and writing. Writing is a significant component of any communication, be it scientific or professional, and participants in this course will be required to assume those voices necessary to accomplishing a particular task. In addition, as a course in folklore studies participants will also create documentation containing both metadata and data in an appropriate structure.
+Memes, fake news, trolling, rickrolling are all well-established forms of internet behavior and are as much a part of our everyday lives as grandma's gumbo. **English 334: Digital Folklore and Culture** explores the varieties and depths of vernacular digital cultures, from the first email forwards to the latest tiktoks and everything in between. Course activities include curating collections of digital materials; learning how to parse digital content; annotating, sorting, and compiling data sets; applying appropriate analytical frameworks; and exploring ways to present your ideas effectively. The final project focuses on an online collection and a poster session. 
 
 This course is designed for students:
+
 - who do not currently have a working understanding of folklore, tradition, and/or culture but perhaps do have some understanding of human behavior; 
 - who are interested in developing a working understanding of culture, and its many forms / behaviors;
 - who are interested in a basic understanding, and experience, of the research practice that lies behind scholarly and scientific domains.
+
+## Course Learning Goals
+
+There are X learning goals for this course, which intertwine and overlap over the course of the semester and which will be demonstrated through a variety of activities and assignments, some of which occur in-class and some out of class. By the end of this course you should be able to: 
+
+- read scholarly and scientific analyses of human behavior, 
+- discover for yourself how those analyses apply directly or indirectly to online behaviors in general and your own research (interests) in particular, 
+- by applying definitions, models, or analytical concepts in your own writing. 
+
+Writing is a significant component of any communication, be it scientific or professional, and participants in this course will be required to assume those voices necessary to accomplishing a particular task. In addition, as a course in folklore studies participants will also create documentation containing both metadata and data in an appropriate structure.
 
 ## Texts
 
@@ -54,7 +61,7 @@ As an upper-division course, this course assumes all participants are already fa
 
 The schedule of graded assignments is:
 
-* **Participation** (20%) requires active participation in discussions and activities. An important dimension of learning is voicing your ideas either orally or in writing, which is often far easier in conversation than it is in the more formal setting of an assignment. Use these opportunities to your best advantage. I try to use a variety of activities, and discussion formats, in class meetings to help balance those with preferences for extroversion with those for preferences for introversion. (If you have particular ideas or suggestions about what might work best for you and/or others, please feel free to pass those along.)
+* **Participation** (20%) includes active participation in discussions, activities, and assignments. *Discussions & Activities*: An important dimension of learning is voicing your ideas either orally or in writing, which is often far easier in conversation than it is in the more formal setting of an assignment. Use these opportunities to your best advantage. I try to use a variety of activities, and discussion formats, in class meetings to help balance those with preferences for extroversion with those for preferences for introversion. *Assignments*: Unless otherwise specified, homework assignments to be handed-in are due at the start of class; postings to Teams are due by 0800 of the day of class. If they are to  (If you have particular ideas or suggestions about what might work best for you and/or others, please feel free to pass those along.)
 * **Quizzes / Exams** (40%): A lot of recent work in learning has suggeted that regular testing of things recently learned is the best way to improve recall and facility. This semester this course is using weekly quizzes to explore how well that works. Each week a quiz will be given. At the end of the quiz, if you feel confident in your answers, you may turn it in for credit. Sufficient number of correctly-answered weekly quizzes will make either of the exams, mid-term and final, optional. If you would prefer to hold onto your quiz for personal review, you are free to do so. Answers will be provided after the quiz -- in some cases later in the class meeting and in others the next meeting -- so that you can check your understanding. The two exams, then, are each worth 20% and ask you to take concepts and methods taken from the readings and apply them in a very constrained way to novel examples, to examples from another reading, or from your own work. If you've kept up with the reading, lectures, and discussions, these are pretty straightforward. 
 * **Projects** (40%): Drawing upon the ideas, forms, and materials we have discussed this course expects you to strike out on your own, gathering your own data, perhaps even data sets, analyzing it, and bringing appropriate (and novel) ideas and concepts to bear. Each of the projects is a small research project based on a genre we have studied and which you then go collect. Presentation formats vary, but the capstone project is a poster to be displayed either in H.L. Griffin or in Dupre Library. More on the [course project(s)](projects.md).
 

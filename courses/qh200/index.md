@@ -26,6 +26,10 @@ We will read broadly from corpus linguistics, corpus stylistics, and information
 
 ## Schedule
 
+### On Quantification
+
+We begin with a quick review of what it means to *quantify* something or a collection of somethings: what, how, why we count. While there are a number of texts we could read, including Cathy O’Neil’s _Weapons of Math Destruction_ and Brandeis Hill Marshall’s _Data Conscience_, we will focus our discussion on _A Primer on Powerful Numbers: Selected Readings in the Social Study of Publc Data and Official Numbers_, which is available from [Data & Society](https://datasociety.net/library/a-primer-on-powerful-numbers-selected-readings-in-the-social-study-of-public-data-and-official-numbers/). 
+
 ### Text Basics
 
 * The ["The Zipf Mystery"](https://www.youtube.com/watch?v=fCn8zs912OE).
