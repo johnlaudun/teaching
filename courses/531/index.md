@@ -28,7 +28,7 @@ Propp, Vladimir. 1968. _Morphology of the Folktale_. Tr. Laurence Scott. Univers
 
 In addition to these texts, we will be reading a great deal from materials drawn from sources like JSTOR and Project Muse as well as other materials found online -- either posted to arXiv or to personal, professional, or institutional sites. 
 
-## Cource Requirements
+## Course Requirements
 
 The weighting of grades will be as follows: *participation* in the seminar, which includes short in-seminar presentations and activities, makes up one half of a participant's evaluation. The *seminar paper process* makes up the other half. (I stress the importance of process.)
 
@@ -51,7 +51,9 @@ For most participants, writing a seminar paper in a course focused on intellectu
 
 Single-spaced and citations in whatever formatting your prefer, but used consistently. (For the record, folklore studies uses Chicago B, which makes far more sense than MLA and has not changed in decades.)
 
-Please see the agenda for timing.
+### Communications
+
+If you must miss a class meeting, please make sure to contact someone from the course to verify what happened and where we are in the schedule. (If Teams is working, you may feel free to post there. Conversely, if you are checking Teams and you see someone has asked about something in class, please answer their question.)
 
 ### Corpus
 

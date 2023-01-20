@@ -6,67 +6,47 @@ layout: default
 
 # 531 Seminar Schedule
 
-Our own interests, expertise, and discoveries will determine more clearly how we will actually spend our time. For those reasons, I prefer to establish an agenda for a course, with the proviso that how much we dwell on a topic or gloss it will effect the timing of matters. While the sequencing of topics should remain fairly stable, the fulfillment of those topics through various readings will be determined by the content of our conversations.
+Our own interests, expertise, and discoveries will determine more clearly how we will actually spend our time. For those reasons, I prefer to establish an agenda for a course, with the proviso that how much we dwell on a topic or gloss it will effect the timing of matters. One of the things we will do in the first few weeks together is to establish the topics that interest us most and in what order we should proceed. Even then, while the sequencing of topics may remain stable, the fulfillment of those topics through various readings will be determined by the content of our conversations.
 
-Please note that the schedule below will change according to the needs of the course and its participants. If you must miss a class meeting, please make sure to contact someone from the course to verify what happened and where we are in the schedule. (If Teams is working, you may feel free to post there. Conversely, if you are checking Teams and you see someone has asked about something in class, please answer their question.)
-
-## Schedule in Brief
-
-1. Jan 11 - Seminar Introductions
-2. Jan 18 - Story, Schmory: What's (a) narrative?
-3. Jan 25 - 
-4. Feb 1 - 
-5. Feb 8 - 
-6. Feb 15 -
-
-*Mardi Gras Break*
-
-8. Mar 1 - 
-9. Mar 8 - 
-10. Mar 15 - 
-11. Mar 22 - 
-12. Mar 29 -
-13. Apr 5 -
-
-*Spring Break*
-
-14. Apr 19 - 
-15. Apr 25 - Presentations & Course Wrap-Up
-
-## Schedule in Full-ish
-
-### Seminar Introductions
+## Seminar Introductions
 
 On the first day of the course we go over all the usual course dimensions, reviewing the syllabus as we do so. There will also be some preliminary introductions of participants, and, should the moment arise, a brief discussion about the nature of **texts**. 
 
-**January 18**. *"Story" and "Narrative"*. There are a lot of definitions of culture and folklore out "there." In this class, we discuss some of them and begin to build a useful synthesis of those terms, the first of many, on which we can all rely. **Assigned**: Participants are divided into two groups, each group focused on one of the two terms. Each participant is responsible for collecting one definition from the kinds of sources discussed in class — so, yes, googling "what is culture?" is going to be ruled *low effort / low reward*. Each entry should be 25-100 words in length and should be accompanied by a citation as well as a brief rationale (another 25-100 words) that explains why it is a viable or useful definition. Each of these items should appear as a separate block in the document you bring to class and/or share with others.
+January 23. **A Very Bayesian Beginning**. *Narrative* and *story* get used a lot. For our first meeting, after we review the syllabus and introduce ourselves, we will discuss examples of the two that you bring in from out in the world. Each participant should bring in at least three usages, quotations. To make it easier to share, please copy and paste them into a document that you can then print out and bring 10 copies. We will cut one copy into individual quotations (so if your quotations run more than a page, please make sure each appears on a page). We will then sort the quotations/usages into groups of our own devising, based on similarities in emergent traits. Each participant should bring in at least three examples. Try to vary the nature of the examples: make at least one scholarly and/or formal; make one from a popular source -- and not everyone can use Wikipedia!
 
-**January 25**. 
+## The Shape of Stories
 
-**February 1**. 
+**January 30**. 
 
-**February 8**. 
+**February 6**. 
 
-**February 15**.
+**February 13**.
 
 *There are no class meetings during Mardi Gras break. Enjoy!*
 
-March 1. 
+## Narratology
 
-March 8.
+February 27. 
 
-March 15. 
+March 6.
 
-March 22.
+March 13. 
 
-March 29.
+March 20.
 
-April 5.
+## Recent Developments
 
+March 27.
 
-### A Bayesian Introduction to Narrative Studies
+April 3. **Computational Narratology**. 
 
-**Part 1**. *Narrative* and *story* get used a lot. For our first meeting, after we review the syllabus and introduce ourselves, we will discuss examples of the two that you bring in from out in the world. Each participant should bring in at least three usages, quotations. To make it easier to share, please copy and paste them into a document that you can then print out and bring 10 copies. We will cut one copy into individual quotations (so if your quotations run more than a page, please make sure each appears on a page). We will then sort the quotations/usages into groups of our own devising, based on similarities in emergent traits. Each participant should bring in at least three examples. Try to vary the nature of the examples: make at least one scholarly and/or formal; make one from a popular source -- and not everyone can use Wikipedia!
+*Spring Break.* 
+
+April 17.
+
+---
+
+**Pay no attention to the man behind the curtain nor the material below this point.**
 
 **Part 2**.The first task in any course with some dimension of intellectual history as its focus is to try to understand the overall history of the domain. Narrative, however, is a relatively recent locus for organizing scholarly and scientific investigation. Prior to its development as a subject of study in the twentieth century, narrative was largely viewed through a lens of other objects -- tragic plays, novels, myths. While a seminar of this nature could spend a considerable amount of time in the period prior to the formalist-structuralist articulation of narrative as an object in its own right, we are going to bounce around a bit, hoping, in some shadow of Bayes, to locate ourselves through apparent random pings in the great depths of intellectual history.
 
