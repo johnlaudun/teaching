@@ -12,7 +12,11 @@ Our own interests, expertise, and discoveries will determine more clearly how we
 
 On the first day of the course we go over all the usual course dimensions, reviewing the syllabus as we do so. There will also be some preliminary introductions of participants, and, should the moment arise, a brief discussion about the nature of **texts**. 
 
-January 23. **A Very Bayesian Beginning**. *Narrative* and *story* get used a lot. For our first meeting, after we review the syllabus and introduce ourselves, we will discuss examples of the two that you bring in from out in the world. Each participant should bring in at least three usages, quotations. To make it easier to share, please copy and paste them into a document that you can then print out and bring 10 copies. We will cut one copy into individual quotations (so if your quotations run more than a page, please make sure each appears on a page). We will then sort the quotations/usages into groups of our own devising, based on similarities in emergent traits. Each participant should bring in at least three examples. Try to vary the nature of the examples: make at least one scholarly and/or formal; make one from a popular source -- and not everyone can use Wikipedia!
+January 23. **A Very Bayesian Beginning**. *Narrative* and *story* get used a lot. For our first meeting, after we review the syllabus and introduce ourselves, we will discuss examples of the two that you bring in from out in the world. Each participant should bring in at least three usages, quotations. To make it easier to share, please copy and paste them into a document that you can then print out and bring 10 copies. We will cut one copy into individual quotations (so if your quotations run more than a page, please make sure each appears on a page). We will then sort the quotations/usages into groups of our own devising, based on similarities in emergent traits. Each participant should bring in at least three examples. Try to vary the nature of the examples: make at least one scholarly and/or formal; make one from a popular source -- and not everyone can use Wikipedia! We will discuss the essay by Stewart  – see Teams for a PDF version – and we will watch and discuss the Sagmeister in class. 
+
+Stewart, Susan. 2022. Beware the 'Storification' of the Internet. _The Atlantic_ (November 17). https://www.theatlantic.com/books/archive/2022/11/seduced-by-story-peter-brooks-book-review/672135/. 
+
+Sagmeister, Stefan. 2014. You Are Not a Storyteller. FITC. https://vimeo.com/98368484. 
 
 ## The Shape of Stories
 
