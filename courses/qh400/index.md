@@ -116,6 +116,9 @@ And here is the study as it appeared in _Scientific American_:
 Gantman, Ana P. , William J. Brady, Jay Van Bavel. 2019. Why Moral Emotions Go Viral Online:
 A study of Twitter demonstrates the attentional power of certain words. _Scientific American_ (August 20). [URL](https://www.scientificamerican.com/article/why-moral-emotions-go-viral-online/).
 
-
 [AI-Generated Text Is the Scariest Deepfake of All
 (https://www.wired.com/story/]ai-generated-text-is-the-scariest-deepfake-of-all/). Synthetic video and audio seemed pretty bad. Synthetic writing—ubiquitous and undetectable—will be far worse.
+
+### More
+
+What we are going to explore in this course is the way, yes, information in general travels through networks but also how certain kinds of information both pass through those networks but in passing through them actually instantiate them. 

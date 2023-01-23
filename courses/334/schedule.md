@@ -56,6 +56,8 @@ February 27.
 
 March 1. 
 
+Shahsavari S, Holur P, Wang T, Tangherlini TR, Roychowdhury V. 2020. Conspiracy in the time of corona: automatic detection of emerging COVID-19 conspiracy theories in social media and the news. _Journal of Computational Social Science_ 3(2):279-317. doi: 10.1007/s42001-020-00086-5. PMID: 33134595; PMCID: PMC7591696. [URL](https://pubmed.ncbi.nlm.nih.gov/33134595/).
+
 ---
 March 6.
 

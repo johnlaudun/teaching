@@ -12,17 +12,23 @@ Our own interests, expertise, and discoveries will determine more clearly how we
 
 On the first day of the course we go over all the usual course dimensions, reviewing the syllabus as we do so. There will also be some preliminary introductions of participants, and, should the moment arise, a brief discussion about the nature of **texts**. 
 
-January 23. **A Very Bayesian Beginning**. *Narrative* and *story* get used a lot. For our first meeting, after we review the syllabus and introduce ourselves, we will discuss examples of the two that you bring in from out in the world. Each participant should bring in at least three usages, quotations. To make it easier to share, please copy and paste them into a document that you can then print out and bring 10 copies. We will cut one copy into individual quotations (so if your quotations run more than a page, please make sure each appears on a page). We will then sort the quotations/usages into groups of our own devising, based on similarities in emergent traits. Each participant should bring in at least three examples. Try to vary the nature of the examples: make at least one scholarly and/or formal; make one from a popular source -- and not everyone can use Wikipedia! We will discuss the essay by Stewart  – see Teams for a PDF version – and we will watch and discuss the Sagmeister in class. 
+January 23. **A Very Bayesian Beginning**. *Narrative* and *story* get used a lot. For our first meeting, after we review the syllabus and introduce ourselves, we will discuss examples of the two that you bring in from out in the world. Each participant should bring in at least three usages, quotations. To make it easier to share, please copy and paste them into a document that you can then print out and bring 10 copies. We will cut one copy into individual quotations (so if your quotations run more than a page, please make sure each appears on a page). We will then sort the quotations/usages into groups of our own devising, based on similarities in emergent traits. Each participant should bring in at least three examples. Try to vary the nature of the examples: make at least one scholarly and/or formal; make one from a popular source -- and not everyone can use Wikipedia! We will discuss the review of Brooks’ _Seduced by Story_  (see Teams for a PDF version) and various videos in this seminar. (Maya Eilam created an [infographic](https://tenderhuman.com/shapes-of-stories-infographic) of Vonnegut’s shapes.)
 
 Stewart, Susan. 2022. Beware the 'Storification' of the Internet. _The Atlantic_ (November 17). https://www.theatlantic.com/books/archive/2022/11/seduced-by-story-peter-brooks-book-review/672135/. 
 
 Sagmeister, Stefan. 2014. You Are Not a Storyteller. FITC. https://vimeo.com/98368484. 
 
+Vonnegut, Kurt. 2004. The Shapes of Stories. Lecture at Case Western Reserve University. https://vimeo.com/videos/791979342. 
+
 ## The Shape of Stories
 
-**January 30**. 
+(January 30) **Renown Shapes**. In this seminar we examine well-established “shapes” of stories such as Freitag’s “pyramid”, the Hollywood “formula”, and various story “circles”. 
 
-**February 6**. 
+(February 6) **The Morphology of the Folktale**. Perhaps only lagging behind Claude Levi-Strauss’ “The Structural Study of Myth” as one of the most renown works of folk narrative study, Propp’s _Morphology_ shaped much of the classical work in mythology to come later in the twentieth century and would, in fact, have a significant influence on early attempts to build computational models of narrative in the early twenty-first century.
+
+Propp, Vladimir. 1968. _Morphology of the Folktale_. Tr. Laurence Scott. University of Texas Press. 
+
+Lévi-Strauss, Claude. 1955. The Structural Study of Myth. *Journal of American Folklore* 68 (270): 428-44. 
 
 **February 13**.
 
