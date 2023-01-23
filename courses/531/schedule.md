@@ -8,11 +8,7 @@ layout: default
 
 Our own interests, expertise, and discoveries will determine more clearly how we will actually spend our time. For those reasons, I prefer to establish an agenda for a course, with the proviso that how much we dwell on a topic or gloss it will effect the timing of matters. One of the things we will do in the first few weeks together is to establish the topics that interest us most and in what order we should proceed. Even then, while the sequencing of topics may remain stable, the fulfillment of those topics through various readings will be determined by the content of our conversations.
 
-## Seminar Introductions
-
-On the first day of the course we go over all the usual course dimensions, reviewing the syllabus as we do so. There will also be some preliminary introductions of participants, and, should the moment arise, a brief discussion about the nature of **texts**. 
-
-January 23. **A Very Bayesian Beginning**. *Narrative* and *story* get used a lot. For our first meeting, after we review the syllabus and introduce ourselves, we will discuss examples of the two that you bring in from out in the world. Each participant should bring in at least three usages, quotations. To make it easier to share, please copy and paste them into a document that you can then print out and bring 10 copies. We will cut one copy into individual quotations (so if your quotations run more than a page, please make sure each appears on a page). We will then sort the quotations/usages into groups of our own devising, based on similarities in emergent traits. Each participant should bring in at least three examples. Try to vary the nature of the examples: make at least one scholarly and/or formal; make one from a popular source -- and not everyone can use Wikipedia! We will discuss the review of Brooks’ _Seduced by Story_  (see Teams for a PDF version) and various videos in this seminar. (Maya Eilam created an [infographic](https://tenderhuman.com/shapes-of-stories-infographic) of Vonnegut’s shapes.)
+January 23. **A Very Bayesian Beginning**. *Narrative* and *story* get used a lot. For our first meeting, after we review the syllabus and introduce ourselves, we will discuss examples of the two that you bring in from out in the world. Each participant should bring in at least three usages, quotations. To make it easier to share, please copy and paste them into a document that you can then print out and bring sufficient copies for all to have one. We will cut one copy into individual quotations (so if your quotations run more than a page, please make sure each appears on a page). We will then sort the quotations/usages into groups of our own devising, based on similarities in emergent traits. Each participant should bring in at least three examples. Try to vary the nature of the examples: make at least one scholarly and/or formal; make one from a popular source -- and not everyone can use Wikipedia! We will discuss the review of Brooks’ _Seduced by Story_  (see Teams for a PDF version) and various videos in this seminar. (Maya Eilam created an [infographic](https://tenderhuman.com/shapes-of-stories-infographic) of Vonnegut’s shapes.)
 
 Stewart, Susan. 2022. Beware the 'Storification' of the Internet. _The Atlantic_ (November 17). https://www.theatlantic.com/books/archive/2022/11/seduced-by-story-peter-brooks-book-review/672135/. 
 
@@ -20,7 +16,7 @@ Sagmeister, Stefan. 2014. You Are Not a Storyteller. FITC. https://vimeo.com/983
 
 Vonnegut, Kurt. 2004. The Shapes of Stories. Lecture at Case Western Reserve University. https://vimeo.com/videos/791979342. 
 
-## The Shape of Stories
+If there is time, we will also have a brief discussion about the nature of **texts**, contexts, competences, and performances.
 
 (January 30) **Renown Shapes**. In this seminar we examine well-established “shapes” of stories such as Freitag’s “pyramid”, the Hollywood “formula”, and various story “circles”. 
 
@@ -30,7 +26,7 @@ Propp, Vladimir. 1968. _Morphology of the Folktale_. Tr. Laurence Scott. Univers
 
 Lévi-Strauss, Claude. 1955. The Structural Study of Myth. *Journal of American Folklore* 68 (270): 428-44. 
 
-**February 13**.
+(February 13) **Types & Motifs**. In this seminar, we familiarize ourselves with one way the idea of functions in folktales were operationalized, The Tale-Type Index and, later, its companion set of volumes, *The Motif Index*. With the readings in mind, we settle down to using the volumes to classify a number of tales. 
 
 *There are no class meetings during Mardi Gras break. Enjoy!*
 
