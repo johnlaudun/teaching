@@ -8,7 +8,9 @@ layout: default
 
 Our own interests, expertise, and discoveries will determine more clearly how we will actually spend our time. For those reasons, I prefer to establish an agenda for a course, with the proviso that how much we dwell on a topic or gloss it will effect the timing of matters. One of the things we will do in the first few weeks together is to establish the topics that interest us most and in what order we should proceed. Even then, while the sequencing of topics may remain stable, the fulfillment of those topics through various readings will be determined by the content of our conversations.
 
-January 23. **A Very Bayesian Beginning**. *Narrative* and *story* get used a lot. For our first meeting, after we review the syllabus and introduce ourselves, we will discuss examples of the two that you bring in from out in the world. Each participant should bring in at least three usages, quotations. To make it easier to share, please copy and paste them into a document that you can then print out and bring sufficient copies for all to have one. We will cut one copy into individual quotations (so if your quotations run more than a page, please make sure each appears on a page). We will then sort the quotations/usages into groups of our own devising, based on similarities in emergent traits. Each participant should bring in at least three examples. Try to vary the nature of the examples: make at least one scholarly and/or formal; make one from a popular source -- and not everyone can use Wikipedia! We will discuss the review of Brooks’ _Seduced by Story_  (see Teams for a PDF version) and various videos in this seminar. (Maya Eilam created an [infographic](https://tenderhuman.com/shapes-of-stories-infographic) of Vonnegut’s shapes.)
+## (J23) A Very Bayesian Beginning
+
+*Narrative* and *story* get used a lot. For our first meeting, after we review the syllabus and introduce ourselves, we will discuss examples of the two that you bring in from out in the world. Each participant should bring in at least three usages, quotations. To make it easier to share, please copy and paste them into a document that you can then print out and bring sufficient copies for all to have one. We will cut one copy into individual quotations (so if your quotations run more than a page, please make sure each appears on a page). We will then sort the quotations/usages into groups of our own devising, based on similarities in emergent traits. Each participant should bring in at least three examples. Try to vary the nature of the examples: make at least one scholarly and/or formal; make one from a popular source -- and not everyone can use Wikipedia! We will discuss the review of Brooks’ _Seduced by Story_  (see Teams for a PDF version) and various videos in this seminar. (Maya Eilam created an [infographic](https://tenderhuman.com/shapes-of-stories-infographic) of Vonnegut’s shapes.)
 
 Stewart, Susan. 2022. Beware the 'Storification' of the Internet. _The Atlantic_ (November 17). https://www.theatlantic.com/books/archive/2022/11/seduced-by-story-peter-brooks-book-review/672135/. 
 
@@ -16,23 +18,47 @@ Sagmeister, Stefan. 2014. You Are Not a Storyteller. FITC. https://vimeo.com/983
 
 Vonnegut, Kurt. 2004. The Shapes of Stories. Lecture at Case Western Reserve University. https://vimeo.com/videos/791979342. 
 
+Vonnegut’s notion of *story shapes* re-surfaced a decade later and received a lot of attention, with most reseachers focused on mapping his *good fortune-ill fortune* axis onto positive and negative sentiment. For applications of that idea and for a clearer understanding of what it means to “extract” sentiment “out” of a text, see the following publications.
+
+Reagan, Andrew J, Lewis Mitchell, Dilan Kiley, Christopher M Danforth, and Peter Sheridan Dodds. 2016. The Emotional Arcs of Stories Are Dominated By Six Basic Shapes. *EPJ Data Science* 5 (1): 175. 10.1140/epjds/s13688-016-0093-1. [URL](https://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-016-0093-1).
+
+A pre-print of Reagan et al. is available on [ArXiv.org](https://arxiv.org), a site used by a wide range of scientists to make papers given at conferences accessible. It’s always worth a search.
+
+Gao, Jianbo, Matthew Jockers, John Laudun, and Timothy Tangherlini. 2016. A Multiscale Theory for Sentiment Variation in Novels. *2016 International Conference on Behavioral, Economic and Socio-cultural Computing (BESC)* 1-4. 10.1109/BESC.2016.7804470. [URL](https://ieeexplore.ieee.org/document/7804470).
+
+Lei, Lei, and Dilin Liu. 2021. *Conducting Sentiment Analysis*. Cambridge University Press. 10.1017/9781108909679. [URL](https://www.cambridge.org/core/elements/abs/conducting-sentiment-analysis/B00BACADE638BF1AD5F61972FEE4183D#).
+
+The Lei and Liu is from the Cambridge Elements series, which is worth checking out for things of interest since most are free for download, and has the following description: “This Element provides a basic introduction to sentiment analysis, aimed at helping students and professionals in corpus linguistics to understand what sentiment analysis is, how it is conducted, and where it can be applied. It begins with a definition of sentiment analysis and a discussion of the domains where sentiment analysis is conducted and used the most.”
+
 If there is time, we will also have a brief discussion about the nature of **texts**, contexts, competences, and performances.
 
-(January 30) **Renown Shapes**. In this seminar we examine well-established “shapes” of stories such as Freitag’s “pyramid”, the Hollywood “formula”, and various story “circles”. 
+## (J30) Renown Shapes 
 
-(February 6) **The Morphology of the Folktale**. Perhaps only lagging behind Claude Levi-Strauss’ “The Structural Study of Myth” as one of the most renown works of folk narrative study, Propp’s _Morphology_ shaped much of the classical work in mythology to come later in the twentieth century and would, in fact, have a significant influence on early attempts to build computational models of narrative in the early twenty-first century.
+In European tradition prior to the twentieth century, there are really two accounts of *dramatic structure* or shape that were most prominent. The first is Aristotle’s notion of beginning, middle, and end that the plot of all tragedies must possess — note the qualification (which often gets overlooked)—put forth in his *Poetics* (335BCE): 
+
+> A whole is what has a beginning and middle and end. A beginning is that which is not a necessary consequent of anything else but after which something else exists or happens as a natural result. An end on the contrary is that which is inevitably or, as a rule, the natural result of something else but from which nothing else follows; a middle follows something else and something follows from it. Well constructed plots must not therefore begin and end at random, but must embody the formulae we have stated.[^2]
+
+The next consideration that “shapes” our current thinking doesn’t occur until the end of the nineteenth century, when the German playwright Gustav Freytag argued in *Die Technik des Dramas* that dramatic structures occurred in five parts: introduction, rise, climax, return or fall, denouement or resolution (or catastrophe). 
+
+[^2]: This translation of Aristotle’s *Poetics* is from Perseus, an online library of Greek and Latin texts maintained by Tufts University. According to them the citation is: : http://data.perseus.org/citations/urn:cts:greekLit:tlg0086.tlg034.perseus-eng1:1450b. Aristotle’s consideration is really quite nuanced and is examining for yourself. For instance, I find his assessment of what a character is quite compelling: “Character is that which reveals choice.”
+
+## (F6) The Morphology of the Folktale
+
+Perhaps only lagging behind Claude Levi-Strauss’ “The Structural Study of Myth” as one of the most renown works of folk narrative study, Propp’s _Morphology_ shaped much of the classical work in mythology to come later in the twentieth century and would, in fact, have a significant influence on early attempts to build computational models of narrative in the early twenty-first century.
 
 Propp, Vladimir. 1968. _Morphology of the Folktale_. Tr. Laurence Scott. University of Texas Press. 
 
 Lévi-Strauss, Claude. 1955. The Structural Study of Myth. *Journal of American Folklore* 68 (270): 428-44. 
 
-(February 13) **Types & Motifs**. In this seminar, we familiarize ourselves with one way the idea of functions in folktales were operationalized, The Tale-Type Index and, later, its companion set of volumes, *The Motif Index*. With the readings in mind, we settle down to using the volumes to classify a number of tales. 
+## (F13) Types & Motifs
+
+In this seminar, we familiarize ourselves with one way the idea of functions in folktales were operationalized, The Tale-Type Index and, later, its companion set of volumes, *The Motif Index*. With the readings in mind, we settle down to using the volumes to classify a number of tales. 
 
 *There are no class meetings during Mardi Gras break. Enjoy!*
 
 ## Narratology
 
-February 27. 
+(F27)
 
 March 6.
 
