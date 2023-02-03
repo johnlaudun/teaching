@@ -3,6 +3,8 @@ layout: default
 title: 334 Course Project
 ---
 
+# 334 Course Project
+
 The course project is designed to give you a sense of the research process, from coming up with an idea to presenting your results (and possible conclusions). This semester the presentation will be in the form of a poster situated either in Dupre library or the hallways of H.L. Griffin, depending upon display space availability. This means your research will be public, 
 
 Work on the course project typically begins right at the mid-semester mark, with the development of a research proposal. Deadlines are below, but please note that you are always welcome to submit early, and often. Drafting is a feature, not a bug.
