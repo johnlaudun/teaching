@@ -1,9 +1,6 @@
-
 ---
 layout: default
 title: 334 Course Project
-parent: Home
-nav_exclude: false
 ---
 
 The course project is designed to give you a sense of the research process, from coming up with an idea to presenting your results (and possible conclusions). This semester the presentation will be in the form of a poster situated either in Dupre library or the hallways of H.L. Griffin, depending upon display space availability. This means your research will be public, 
