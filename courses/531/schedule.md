@@ -66,7 +66,21 @@ In this seminar, we familiarize ourselves with one way the idea of functions in 
 
 *There are no class meetings during Mardi Gras break. Enjoy!*
 
-## Narratology
+## (F27) Episode One: Towards a Structuralist Study of Narrative
+
+The notion that stories can only be understood in terms of sequence dates back to Aristotle who argued that all narratives develop longitudinally, from beginning to middle and the end through the selection and combination of events. Taking their cue from the formalists, structuralists thinkers like Roland Barthes and Tzvetan Todorov (and later A.J. Grimes and Gerard Genette) argued that that was but one way to approach narrative, as a syntagm. There are also paradigms at work, and that was where the study of narrative, if it was to become a science, should look.
+
+If you need a refresher on structural linguistics as it was first articulated by Ferdinand Saussure, you can find an excerpt in our course files on Teams.
+
+Saussure, Ferdinand de, and Roy Harris. 1998. *Course in General Linguistics (Open Court Classics)*. Open Court.
+
+The main focus of our conversation for this seminar will be essays by Barthes and Bremond, which appeared in the same issue of _Communications_ in 1966 and a subsequent essay by Todorov.
+
+Barthes, Roland. 1975. An Introduction to the Structural Analysis of Narrative. *New Literary History* 6 (2): 237-72. Translated by Lionel Duisit. [JSTOR](https://www.jstor.org/stable/468419).
+
+Bremond, Claude, and Elaine D. Cancalon. 1980. The Logic of Narrative Possibilities. *New Literary History* 11 (3): 387-411. 
+
+Todorov, Tzvetan. 1971. The 2 Principles of Narrative. *Diacritics* 1 (1): 37-44. [JSTOR](http://www.jstor.org/stable/464558 ).
 
 (F27)
 
