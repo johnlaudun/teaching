@@ -15,8 +15,11 @@ This course is designed to familiarize students with text analytics, from text p
 
 The course sequence begins with a quick review of Python and basic text processing operations. From there we spend time with regular expressions, parsers, and state machines. After that, we take up the necessity of collecting data and then working with our data set to answer questions that arise from the data itself. As participants work through the course, they will be expected to:
 
-* understand the basics of string operations and text processing in Python
-* build upon those basics to develop approaches to text processing
+1. understand the basics of text processing in Python 
+
+2. build upon those basics to develop approaches to text processing
+3. apply those approaches to a set of texts (a corpus)
+4. develop a s corpus of their own and articulate the better approaches to that corpus
 
 We will use a variety of data sets throughout the course, and it is expected that those data sets, also known as corpora in some instances, will act as models/examples for you to build your own.
 

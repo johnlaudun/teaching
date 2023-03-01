@@ -52,18 +52,18 @@ Please note that the schedule below will change according to the needs of the co
 
 ### Rumors, Legends, Conspiracies
 
-February 27.
+**February 27**. Read: Tucker, Elizabeth. 2020. The Girl Who Hid: Campus Rumors and Legends of the Spring of 2020. *Contemporary Legend* Series 3, Volume 10 73-84. [URL](https://scholarworks.iu.edu/journals/index.php/cl/article/view/35144).
 
-Tucker, Elizabeth. 2020. The Girl Who Hid: Campus Rumors and Legends of the Spring of 2020. *Contemporary Legend* Series 3, Volume 10 73-84. [URL](https://scholarworks.iu.edu/journals/index.php/cl/article/view/35144).
-
-March 1. 
-
-Shahsavari S, Holur P, Wang T, Tangherlini TR, Roychowdhury V. 2020. Conspiracy in the time of corona: automatic detection of emerging COVID-19 conspiracy theories in social media and the news. _Journal of Computational Social Science_ 3(2):279-317. doi: 10.1007/s42001-020-00086-5. PMID: 33134595; PMCID: PMC7591696. [URL](https://pubmed.ncbi.nlm.nih.gov/33134595/).
+**March 1**. Read: Tangherlini, Timothy. 2017. Toward a Generative Model of Legend: Pizzas, Bridges, Vaccines, and Witches. *Humanities* 7 (1): [10.3390/h7010001](http://dx.doi.org/10.3390/h7010001). 
 
 ---
-March 6.
+Perhaps no recent phenomenon represents better the dense web of the many kinds of behaviors we associate with legends than Slender Man. This week we will be reading all the articles published in a [special issue][clsm] of _Contemporary Legend_ on Slender Man. (The link takes you to the main page for the issue.)
 
-March 8.
+March 6. Read Blank and McNeil’s “Boiling Over” and Peck’s “At the Modems of Madness.”
+
+March 8. Read Tolbert’s “Dark and Wicked Things” and Kitta’s “‘What Happens When the Pictures Are No Longer Photoshops?’”
+
+[clsm]: https://scholarworks.iu.edu/journals/index.php/cl/issue/view/2252
 
 ---
 March 13.
