@@ -26,6 +26,7 @@ There are some things all students in my courses need, or want, to know:
 * Here's my list of [interview tips](guides/interview_tips.md).
 * If you are not quite sure what a [literature review](guides/lit_review.md) is and you are in a course that requires one, here's a [basic guide](guides/lit_review.md).
 * Revising and [editing](guides/editing.md) go hand-in-hand.
+* Speaking of editing, having a [text editor](guides/editors.md) that works for you is a good idea.
 * You may use any citation system, preferably the one used by your major, so long as you do so consistently and competently. In the absence of any other system, please feel free to use the one employed by social scientists and humanists around the world known as the [Chicago Author-Date System](guides/cad.md). (It's easier, and makes more sense, than MLA.)
 * Navigating the library proxy when connecting to online databases when you are off campus, and understanding the relationship between the library's website and something like JSTOR can be confusing. [Here's some help](guides/access.md).
 * [A (Kind of) Handbook on Writing](guides/writing.md) includes sections on how to think of sentences and paragraphs as building blocks, on introductory paragraphs, on how to write summaries, and how to write thesis statements. If you need help with writing, and almost all of us do, then seek it out. Find me, find the Writing Lab, find an experienced writer -- FTR, lawyers write a lot -- or search the web in general or Medium or Youtube in particular.
