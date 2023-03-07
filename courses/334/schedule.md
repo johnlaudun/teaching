@@ -66,9 +66,11 @@ March 8. Read Tolbert’s “Dark and Wicked Things” and Kitta’s “‘What 
 [clsm]: https://scholarworks.iu.edu/journals/index.php/cl/issue/view/2252
 
 ---
-March 13.
+March 13. Read “The Clown Legend Cascade of 2016” and review for the mid-term exam.
 
-March 15. 
+Laudun, John. 2020. The Clown Legend Cascade of 2016. In *Folklore and Social Media*, 188–208. Edited by Andrew Peck, and Trevor Blank. 
+
+March 15. Mid-term exam.
 
 ---
 March 20.

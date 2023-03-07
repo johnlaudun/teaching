@@ -66,7 +66,7 @@ In this seminar, we familiarize ourselves with one way the idea of functions in 
 
 *There are no class meetings during Mardi Gras break. Enjoy!*
 
-## (F27) Episode One: Towards a Structuralist Study of Narrative
+## (F27-M13) Towards a Structuralist Study of Narrative
 
 The notion that stories can only be understood in terms of sequence dates back to Aristotle who argued that all narratives develop longitudinally, from beginning to middle and the end through the selection and combination of events. Taking their cue from the formalists, structuralists thinkers like Roland Barthes and Tzvetan Todorov (and later A.J. Grimes and Gerard Genette) argued that that was but one way to approach narrative, as a syntagm. There are also paradigms at work, and that was where the study of narrative, if it was to become a science, should look.
 
@@ -80,21 +80,19 @@ Barthes, Roland. 1975. An Introduction to the Structural Analysis of Narrative. 
 
 Bremond, Claude, and Elaine D. Cancalon. 1980. The Logic of Narrative Possibilities. *New Literary History* 11 (3): 387-411. 
 
-Todorov, Tzvetan. 1971. The 2 Principles of Narrative. *Diacritics* 1 (1): 37-44. [JSTOR](http://www.jstor.org/stable/464558 ).
+Todorov, Tzvetan. 1971. The 2 Principles of Narrative. *Diacritics* 1 (1): 37-44. 
 
-(F27)
+In a bit of a chronological loop, the last thing we will read in our history of developments in structuralism is one of the founding documents, which is also a complex one: Lévi-Strauss’ “Structural Study of Myth.”
 
-March 6.
+Lévi-Strauss, Claude. 1955. The Structural Study of Myth. *The Journal of American Folklore* 68 (270): 428-44. [DOI](http://www.jstor.org/stable/536768).
 
-March 13. 
+To see Lévi-Strauss in action is to understand more about his larger claims. For that reason, we are reading a chapter from *Story of Lynx*, “Indian Myths, French Folktales.”
 
-March 20.
+Lévi-Strauss, Claude. 1995. *The Story of Lynx*. University of Chicago Press.
 
-## Recent Developments
+## (M20-A3) Recent Developments
 
-March 27.
-
-April 3. **Computational Narratology**. 
+Computational Narratology. 
 
 *Spring Break.* 
 
@@ -104,7 +102,7 @@ April 17.
 
 **Pay no attention to the man behind the curtain nor the material below this point.**
 
-**Part 2**.The first task in any course with some dimension of intellectual history as its focus is to try to understand the overall history of the domain. Narrative, however, is a relatively recent locus for organizing scholarly and scientific investigation. Prior to its development as a subject of study in the twentieth century, narrative was largely viewed through a lens of other objects -- tragic plays, novels, myths. While a seminar of this nature could spend a considerable amount of time in the period prior to the formalist-structuralist articulation of narrative as an object in its own right, we are going to bounce around a bit, hoping, in some shadow of Bayes, to locate ourselves through apparent random pings in the great depths of intellectual history.
+**Part 2**.The first task in any course with some dimension of intellectual history as its focus is to try to understand the overall history of the domain. Narrative, however, is a relatively recent locus for organizing scholarly and scientific investigation. Prior to its development as a subject of study in the twentieth century, narrative was largely viewed through a lens of other objects: tragic plays, novels, myths. While a seminar of this nature could spend a considerable amount of time in the period prior to the formalist-structuralist articulation of narrative as an object in its own right, we are going to bounce around a bit, hoping, in some shadow of Bayes, to locate ourselves through apparent random pings in the great depths of intellectual history.
 
 We begin with two readings, one a narrative and one a scholarly examination:
 
