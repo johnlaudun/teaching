@@ -26,7 +26,7 @@ This course is designed for students:
 
 ## Course Learning Goals
 
-There are X learning goals for this course, which intertwine and overlap over the course of the semester and which will be demonstrated through a variety of activities and assignments, some of which occur in-class and some out of class. By the end of this course you should be able to: 
+There are three learning goals for this course, which intertwine and overlap over the course of the semester and which will be demonstrated through a variety of activities and assignments, some of which occur in-class and some out of class. By the end of this course you should be able to: 
 
 - read scholarly and scientific analyses of human behavior, 
 - discover for yourself how those analyses apply directly or indirectly to online behaviors in general and your own research (interests) in particular, 

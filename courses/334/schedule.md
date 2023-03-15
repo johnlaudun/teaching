@@ -66,22 +66,22 @@ March 8. Read Tolbert’s “Dark and Wicked Things” and Kitta’s “‘What 
 [clsm]: https://scholarworks.iu.edu/journals/index.php/cl/issue/view/2252
 
 ---
-March 13. Read “The Clown Legend Cascade of 2016” and review for the mid-term exam.
+March 13. Read “The Clown Legend Cascade of 2016” and review for the mid-term exam. (Please note that the JSTOR link is rather fussy and you may be better off downloading while on campus.)
 
-Laudun, John. 2020. The Clown Legend Cascade of 2016. In *Folklore and Social Media*, 188–208. Edited by Andrew Peck, and Trevor Blank. 
+Laudun, John. “The Clown Legend Cascade of 2016.” In *Folklore and Social Media*, edited by Andrew Peck and Trevor J. Blank, 188–208. University Press of Colorado, 2020. [JSTOR](http://www.jstor.org/stable/j.ctv19fvx6q.14).
 
 March 15. Mid-term exam.
 
 ---
-March 20.
+**March 20**. Read: Sleight-Price, Camille, Daisy Ahlstone, and Michelle W. Jones. 2018. “Forbidden Foodways: Tide Pods, Ostensive Practice, and Intergenerational Conflict”. *Contemporary Legend* 8 (December):86-114. https://scholarworks.iu.edu/journals/index.php/cl/article/view/35135.
 
-March 22.
+**March 22**. Read: Radford, Benjamin. 2018. “The Bye Bye Man and Peeping Tom: Slender Man’s Cinematic Siblings”. *Contemporary Legend* 8 (December):22-40. https://scholarworks.iu.edu/journals/index.php/cl/article/view/35133.
 
 ---
 
 ## Course Projects
 
-March 27.
+**March 27**. Research proposals.
 
 March 29.
 
