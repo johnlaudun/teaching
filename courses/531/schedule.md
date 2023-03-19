@@ -66,7 +66,7 @@ In this seminar, we familiarize ourselves with one way the idea of functions in 
 
 *There are no class meetings during Mardi Gras break. Enjoy!*
 
-## (F27-M13) Towards a Structuralist Study of Narrative
+## (F27-M20) Towards a Structuralist Study of Narrative
 
 The notion that stories can only be understood in terms of sequence dates back to Aristotle who argued that all narratives develop longitudinally, from beginning to middle and the end through the selection and combination of events. Taking their cue from the formalists, structuralists thinkers like Roland Barthes and Tzvetan Todorov (and later A.J. Grimes and Gerard Genette) argued that that was but one way to approach narrative, as a syntagm. There are also paradigms at work, and that was where the study of narrative, if it was to become a science, should look.
 
@@ -82,7 +82,7 @@ Bremond, Claude, and Elaine D. Cancalon. 1980. The Logic of Narrative Possibilit
 
 Todorov, Tzvetan. 1971. The 2 Principles of Narrative. *Diacritics* 1 (1): 37-44. 
 
-In a bit of a chronological loop, the last thing we will read in our history of developments in structuralism is one of the founding documents, which is also a complex one: Lévi-Strauss’ “Structural Study of Myth.”
+In a bit of a chronological loop, we read Lévi-Strauss’ “Structural Study of Myth,” which appeared a decade before the essays by Barthes, Bremond and Greimas. Lévi-Strauss’ essay is a bit more difficult for most readers new to structuralism to understand, so it comes after our initial explorations have established the structuralist approach a bit more. Lévi-Strauss’s method is not necessarily glimpsed well in the essay, with its focus on a single text as a primary example, and so the early essay is paired with two chapters from a later work which in some fashion acts as the sixth volume of his Mythologiques, _Story of Lynx_ (1995): 
 
 Lévi-Strauss, Claude. 1955. The Structural Study of Myth. *The Journal of American Folklore* 68 (270): 428-44. [DOI](http://www.jstor.org/stable/536768).
 
@@ -90,7 +90,23 @@ To see Lévi-Strauss in action is to understand more about his larger claims. Fo
 
 Lévi-Strauss, Claude. 1995. *The Story of Lynx*. University of Chicago Press.
 
-## (M20-A3) Recent Developments
+If you continue to struggle with Lévi-Strauss, Eleazar Μeletinsky's discussion in the essay below, in a section of only 6½ pages, is pure analytical gold.
+
+Meletinsky, Eleazar. 1974. Structural-Typological Study of Folktales. In *Soviet Structural Folkloristics*, 19–51. Edited by Pierre Maranda. The Hague: Mouton.
+
+In our last seminar on classical narratology, we pick up some useful tools, a few of many available for helping us thing our way through texts:
+
+Genette, Gérard, and Ann Levonas. 1976. Boundaries of Narrative. *New Literary History* 8 (1): 1-13. DOI: 10.2307/468611. http://www.jstor.org/stable/468611.
+
+Bal, Mieke. 1985. Excerpts on Focalization from *Narratology: Introduction to the Theory of Narrative*. University of Toronto Press. 
+
+Ricouer, Paul. 1985. Excerpts on time and narrating from *Time and Narrative*. University of Chicago Press.
+
+## (M27-A3) Recent Developments
+
+Herman’s synthesis.
+
+Fludernik.
 
 Computational Narratology. 
 
