@@ -8,7 +8,7 @@ These are the courses in which I am currently involved:
 
 * [English 115](115/index.md): Honors Academic Writing
 * [English 332](332/index.md): Introduction to Folk Narrative
-* [English 334](334/index.md): Digital Folklore and Culture
+* [English 334](334/index.md): Digital Storytelling
 <!-- * [English 335](courses/335/index.md): Louisiana Folklore -->
 * [English 432](432/index.md): America in Legend Online and Off
 * [English 531](531/index.md): Seminar in Narrative Studies

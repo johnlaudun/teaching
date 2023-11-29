@@ -10,13 +10,14 @@ has_toc: false
 
 ## Courses
 
-* [English 115](courses/115/index.md): Honors Academic Writing
-* [English 332](courses/332/index.md): Introduction to Folk Narrative
-* [English 334](courses/334/index.md): Digital Folklore and Culture
-* [English 335](courses/335/index.md): Louisiana Folklore
-* [English 432](courses/432/index.md): America in Legend Online and Off
-* [English 531](courses/531/index.md): Seminar in Narrative Studies
-* [English 632](courses/632/index.md): Proseminar in Folklore Theory
+* [Honors Academic Writing (115)](courses/115/index.md)
+* [Introduction to Folk Narrative (332)](courses/332/index.md)
+* [Digital Folklore and Culture (334)](courses/334-cultures/index.md)
+* [Digital Storytelling (334)](courses/334-storytelling/index.md)
+* [Louisiana Folklore (335)](courses/335/index.md) 
+* [America in Legend Online and Off (432)](courses/432/index.md): 
+* [Seminar in Narrative Studies (531)](courses/531/index.md)
+* [Proseminar in Folklore Theory (632)](courses/632/index.md)
 
 
 ## Guides and Statements

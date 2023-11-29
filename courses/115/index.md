@@ -142,7 +142,7 @@ The rest of the semester will be occupied with a consideration of what it means 
 
 Date | Text
 ---- | -------------
-1909 | E. M. Forster, "The Machine Stops"
+1909 | E. M. Forster, "The Machine Stops" 
 1938 | Murray del Rey, "Helen O'Loy" (See note below.)
 1945 | Isaac Asimov, "Escape!"
 1946 | Murray Leinster, "A Logic Named Joe"
@@ -157,6 +157,7 @@ Date | Text
 
 #### Notes
 
+* The Forster story has seen some recent uptick in references (see: Cowles 2021).
 * Many of these texts are well-known and have Wikipedia entries written about them. In addition, it should be noted that there was actually a series of computers called [Colossus][] that were part of the British code-breaking effort during and after WW2.
 * del Rey's story veers from our topic in being a story about embodied AI, and as such we cannot escape its clear ties to [tropes and texts](https://frankensteinmeme.com/the-frankenstein-meme-database-2/entries/helen-oloy/) about Mary Shelley's _Frankenstein_. Also be sure to check out the Gendered Text Project's [mutable version](https://genderedtextproject.com/pulp-science-fiction/helen-oloy). For an interesting take on the sexism in the story, check out Dominick M. Grace's "Rereading Lester del Rey's 'Helen O'Loy'" (on [JSTOR](https://www.jstor.org/stable/4240213)).
 
